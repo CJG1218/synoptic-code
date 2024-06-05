@@ -1,0 +1,15 @@
+iframe {
+    width: 40%;
+}
+.left-aligned-iframe {
+    float: left;
+}
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+html {
+    font-family: "Atkinson Hyperlegible","Atkinson Hyperlegible", sans-serif;
+}
