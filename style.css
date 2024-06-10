@@ -1,5 +1,6 @@
 iframe {
     width: 40%;
+    border: 5px solid #0b3414;
 }
 .left-aligned-iframe {
     float: left;
@@ -12,4 +13,18 @@ iframe {
 }
 html {
     font-family: "Atkinson Hyperlegible","Atkinson Hyperlegible", sans-serif;
+}
+/*the colours
+dark green: #0b3414
+light green: #b0eba5
+brown: #4b3422
+light blue: #46bff2*/
+/* Set background color for the entire website */
+body {
+    background-color: #b0eba5; /* Light blue background color */
+    color: #4b3422; /* Text color for better readability */
+}
+
+.impact_text {
+    margin-left: 10%;
 }
