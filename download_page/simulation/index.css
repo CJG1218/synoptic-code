@@ -1,0 +1,56 @@
+/* CSS for simulation */
+
+body{
+    text-align: center;
+    background-color: #B0EBA5;
+}
+
+img{
+    width: 30%;
+    image-rendering: pixelated;
+}
+
+#buttons{
+    align-self: center;
+    margin: 5px;
+}
+
+#buttons button{
+    align-items: center;
+    padding: 3px;
+    width: 31%;
+    border-radius: 5px;
+}
+
+#enter{
+    display: inline;
+    text-align: center;
+}
+.selected{
+    background-color:#41A3Ff;
+}
+
+.notSelected{
+    background-color: #46BFF2;
+}
+
+button:hover{
+    background-color: #5a7eeb
+}
+
+#correct{
+    position: absolute;
+    left: 35%;
+    top: 0;
+    opacity: 80%;
+}
+
+#enter{
+    width: 30%;
+    border-radius: 5px;
+    background-color: #46BFF2;
+}
+
+#enter:hover{
+    background-color: #5a7eeb
+}
