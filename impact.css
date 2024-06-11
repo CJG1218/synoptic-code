@@ -53,27 +53,23 @@ nav {
 }
 
 iframe {
-    width: 40%;
+    margin-top: 100px;
+    width: 30%;
     border: 5px solid #0b3414;
 }
+
 .left-aligned-iframe {
     float: left;
+    height: 825px;
+
 }
-@font-face {
-    font-family: "Atkinson Hyperlegible";
-    src: url("TTF");
-    font-weight: normal;
-    font-style: normal;
-}
+
 h1 {
     border-bottom: 2px solid #0b3414; /* Adjust thickness and color as needed */
     padding-bottom: 10px; /* Optional: Adds space below the text */
 }
 
 
-html {
-    font-family: "Atkinson Hyperlegible","Atkinson Hyperlegible", sans-serif;
-}
 /*the colours
 dark green: #0b3414
 light green: #b0eba5
@@ -81,8 +77,11 @@ brown: #4b3422
 light blue: #46bff2*/
 /* Set background color for the entire website */
 body {
-    background-color: #b0eba5; /* Light blue background color */
-    color: #4b3422; /* Text color for better readability */
+    background-color: #b0eba5;
+
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: center;
 }
 
 img {
