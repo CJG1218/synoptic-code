@@ -120,20 +120,20 @@ a:hover {
     color: white;
 }
 
-/* Footer Styling */
 footer {
-    background-color: #0b3414;
-    font-size: 0.7em;
-    text-align: center;
-    color: #b0eba5;
-    padding: 16px;
-    margin-top: 32px;
+	background-color: #0b3414;
+	font-size: 0.7em;
+	text-align: center;
+	color: #b0eba5;
+	padding: 16px;
+	margin-top: 32px;
 }
 
 footer a:link {
-    color: #fff9e8;
+	color: #fff9e8;
 }
 
 footer a:hover {
-    color: #e8fff9;
+	color: #e8fff9;
 }
+
