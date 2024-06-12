@@ -113,15 +113,15 @@ a {
 }
 
 a:link {
-	color: #b0eba5;
+	color: white ;
 }
 
 a:visited {
-	color: #0b3414;
+	color: white;
 }
 
 a:hover {
-	color: white;
+	color: #46bff2;
 }
 
 

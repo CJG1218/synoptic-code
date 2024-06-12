@@ -52,12 +52,9 @@ nav ul.nav li {
 
 nav ul.nav li a {
     text-decoration: none;
-    color: #333;
+
 }
 
-nav ul.nav li a:hover {
-    color: white;
-}
 
 /* Main Wrapper */
 #wrapper {
@@ -109,15 +106,15 @@ a {
 }
 
 a:link {
-    color: #b0eba5;
+	color: white ;
 }
 
 a:visited {
-    color: #0b3414;
+	color: white;
 }
 
 a:hover {
-    color: white;
+	color: #46bff2;
 }
 
 footer {
